@@ -28,7 +28,8 @@ After conducting the above experiments, it can be concluded that:
 * This was followed by Neural Network of 2 hidden layers with 36 and 24 units respectively with 98% avg. accuracy. (LR = 0.001 and ReLU activation function) 
 * The 3rd best model was GDA with 92% average accuracy in our analysis.
 
-## Co-contributors
+## Contributors
 * Anmol Kumar (2018382)
+* Tejas Dubhir (2018110)
 * Rishabh Chauhan (2018256)
 
