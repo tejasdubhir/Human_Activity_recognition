@@ -1,4 +1,4 @@
-# Human_Activity_recognition
+# Human Activity Recognition using Accelerometer Data
 
 ## About the Project
 Human posture recognition and analysis have been a widely studied topic these days because of wearable devices' innovation. Thus, activity tracking becomes an exciting use-case for healthcare and fitness tracking applications for both the elderly and adults. In this study, we present the analysis of several machine learning models to detect a human's posture by the data gathered by various accelerometers attached to the body. Support Vector Machines, Logistic Regression, Random Forest Classifier, Stochastic Gradient Descent, K-means clustering, and Gaussian Discriminant Analysis are evaluated and reported in this study.
