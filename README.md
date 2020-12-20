@@ -8,5 +8,5 @@ After conducting the above experiments, it can be concluded by looking at the ob
 This is because the random forest is based on the principle of bagging. Thus a lot of training samples can be generated, and in turn, numerous low learning trees are generated, and their weighted mean results in a highly learned tree. SVM, Logistic regression, K-means clustering, and SGD have shown comparatively less accurate scores, and thus it can be concluded that Random forest is the best predictor.
 
 ## Co-contributors
-*Anmol Kumar(2018382)
-*Rishabh Chauhan (2018256)
+* Anmol Kumar(2018382)
+* Rishabh Chauhan (2018256)
